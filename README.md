@@ -16,3 +16,12 @@ Graph your addiction
 9. Paste your Google API key into `.env` as `GOOGLE_KEY`
     - `GOOGLE_KEY='...'`
 10. Run the script with `node index.js`, and when it's complete - open the directory in your browser to see the graphs.
+
+## Information Displayed
+### From Starbucks API Key
+- Monthly Purchases & Free drinks
+- Pie chart of most visited stores
+- Monthly spend
+
+### From Google API Key
+- Map of stores, with size correlating to number of visits
